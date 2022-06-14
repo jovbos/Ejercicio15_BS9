@@ -1,6 +1,6 @@
 package com.bosonit.BP1.infracstructure.controllers.person;
 
-import com.bosonit.BP1.application.FeignServer.FeignServer;
+import com.bosonit.BP1.application.feignServer.FeignServer;
 import com.bosonit.BP1.infracstructure.dtos.professor.ProfessorOutputDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
